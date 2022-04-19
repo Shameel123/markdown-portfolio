@@ -1,2 +1,2 @@
-[x] One Piece
-[ ] Learning tech stuff
+- One Piece
+- Learning tech stuff
