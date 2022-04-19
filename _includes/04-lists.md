@@ -1,0 +1,2 @@
+- One Piece
+- Learning tech stuff
